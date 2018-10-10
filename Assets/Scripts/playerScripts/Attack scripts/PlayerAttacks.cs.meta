@@ -1,0 +1,53 @@
+fileFormatVersion: 2
+guid: 0edb1b2628e580f469f49244844a122c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - skillOneEffectPrefab: {fileID: 100008, guid: 6691aa7b9e54d5346a5025c621bc2925,
+      type: 2}
+  - skillOneDamagePrefab: {fileID: 100018, guid: c4c7580851f71b848b6819776b6ac748,
+      type: 2}
+  - skillOnePoint: {instanceID: 0}
+  - skillOnePoint_1: {instanceID: 0}
+  - skillOnePoint_2: {instanceID: 0}
+  - skillOnePoint_3: {instanceID: 0}
+  - skillOnePoint_4: {instanceID: 0}
+  - skillOnePoint_5: {instanceID: 0}
+  - skillOnePoint_6: {instanceID: 0}
+  - skillOnePoint_7: {instanceID: 0}
+  - skillOnePoint_8: {instanceID: 0}
+  - skillTwoEffectPrefab: {instanceID: 0}
+  - skillTwoDamagePrefab: {instanceID: 0}
+  - skillTwoPoint: {instanceID: 0}
+  - skillTwoPoint_1: {instanceID: 0}
+  - skillTwoPoint_2: {instanceID: 0}
+  - skillTwoPoint_3: {instanceID: 0}
+  - skillTwoPoint_4: {instanceID: 0}
+  - skillTwoPoint_5: {instanceID: 0}
+  - skillTwoPoint_6: {instanceID: 0}
+  - skillThreeEffectPrefab: {instanceID: 0}
+  - skillThreeDamagePrefab: {instanceID: 0}
+  - skillThreePoint: {instanceID: 0}
+  - skillThreePoint_1: {instanceID: 0}
+  - skillThreePoint_2: {instanceID: 0}
+  - skillThreePoint_3: {instanceID: 0}
+  - skillThreePoint_4: {instanceID: 0}
+  - skillThreePoint_5: {instanceID: 0}
+  - powerBall: {instanceID: 0}
+  - powerBallPos: {instanceID: 0}
+  - powerBallTarget: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - whoosh: {instanceID: 0}
+  - electric1: {instanceID: 0}
+  - electric2: {instanceID: 0}
+  - skillOneMusic1: {instanceID: 0}
+  - skillOneMusic2: {instanceID: 0}
+  - playerSkillOneSound: {instanceID: 0}
+  - skillTwoMusic: {instanceID: 0}
+  - skillThreeMusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
